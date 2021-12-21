@@ -5,7 +5,7 @@
   <body>
     
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrupodata.com.br%2Fdesenvolvimento-de-sistemas%2F&psig=AOvVaw1c9HWTg-4G7ZOhskhnxJud&ust=1640190544733000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCp-4qo9fQCFQAAAAAdAAAAABAD" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 
@@ -14,11 +14,9 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-    <p align="left">
-      <i class="devicon-html5-plain"></i>
-    </p>
+ 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
 </p>
 
 <p align="left">
