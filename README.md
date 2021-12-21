@@ -5,7 +5,7 @@
   <body>
     
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrupodata.com.br%2Fdesenvolvimento-de-sistemas%2F&psig=AOvVaw1c9HWTg-4G7ZOhskhnxJud&ust=1640190544733000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCp-4qo9fQCFQAAAAAdAAAAABAD" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://agenciami.digital/wp-content/uploads/2019/08/sistema-web.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leonardo">
 
 
 
