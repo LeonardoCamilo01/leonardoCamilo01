@@ -5,7 +5,7 @@
   <body>
     
 
-<img src="https://agenciami.digital/wp-content/uploads/2019/08/sistema-web.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leonardo">
+<img src="https://grupodata.com.br/wp-content/uploads/2020/06/GD_dev-sistemas.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leonardo">
 
 
 
