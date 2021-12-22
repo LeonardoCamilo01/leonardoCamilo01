@@ -42,6 +42,9 @@ Busco adquirir mais conhecimentos na √°rea TI, mais especificamente em programa√
 
   <a href="https://www.instagram.com/camiloo_leo/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  
+ <a href="http://website.com" target="_blank" rel="noopener">Link Opens in New Tab</a>
+
 </p>  
 
   </body>
