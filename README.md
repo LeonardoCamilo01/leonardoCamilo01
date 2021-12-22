@@ -31,13 +31,13 @@ Busco adquirir mais conhecimentos na √°rea TI, mais especificamente em programa√
 <p align="left">
  
 
-  <a href="https://www.linkedin.com/in/leonardo-camiloo/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/leonardo-camiloo/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="http://encurtador.com.br/qADHR" alt="WhatsApp">
+  <a href="http://encurtador.com.br/qADHR"  target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="https://www.facebook.com/leonardo.camilo.370/" alt="Facebook">
+  <a href="https://www.facebook.com/leonardo.camilo.370/" target="_blank" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
   <a href="https://www.instagram.com/camiloo_leo/" target="_blank" alt="Instagram">
