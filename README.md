@@ -5,7 +5,7 @@
   <body>
     
 
-<img src="https://grupodata.com.br/wp-content/uploads/2020/06/GD_dev-sistemas.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leonardo">
+<img src="https://grupodata.com.br/wp-content/uploads/2020/06/GD_dev-sistemas.png" min-width="500px" max-width="500px" width="400px" align="right" alt="Computador Leonardo">
 
 
    
