@@ -8,8 +8,9 @@
 <img src="https://grupodata.com.br/wp-content/uploads/2020/06/GD_dev-sistemas.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leonardo">
 
 
-    <h2>Descrição</h2>
+   
 <p align="left"> 
+   <h2>Descrição</h2>
 Busco adquirir mais conhecimentos na área TI, mais especificamente em programação. Possuo conhecimentos em análise de sistemas, desde diagramas de caso de uso até sequências, compreendo que é essencial a fase de análise em projetos para desenvolvimento desktop, web e mobile. E também, tenho adquirido experiências com modelagem de dados e bancos relacionais, como SQLServer e MySql.<br/>
  Atualmente, desenvolvo aplicações com o intuito de colocar em prática a análise de sistemas e banco de dados, e também, adquirir experiências nas tecnologias como : HTML, CSS, JAVASCRIPT, o framework BOOTSTRAP e a linguagem de programação baseada no conceito "objetos", o C#.
 </p>
