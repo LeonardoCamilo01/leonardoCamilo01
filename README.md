@@ -10,8 +10,8 @@
 
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Busco adquirir mais conhecimentos na área TI, mais especificamente em programação. Possuo conhecimentos em análise de sistemas, desde diagramas de caso de uso até sequências, compreendo que é essencial a fase de análise em projetos para desenvolvimento desktop, web e mobile. E também, tenho adquirido experiências com modelagem de dados e bancos relacionais, como SQLServer e MySql.
+ Atualmente, desenvolvo aplicações com o intuito de colocar em prática a análise de sistemas e banco de dados, e também, adquirir experiências nas tecnologias como : HTML, CSS, JAVASCRIPT, o framework BOOTSTRAP e a linguagem de programação baseada no conceito "objetos", o C#.
 </p>
 
  
